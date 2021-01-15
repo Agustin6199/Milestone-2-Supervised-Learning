@@ -33,7 +33,7 @@ In the following scheme you can see the directory structure of our repository, c
 │   └── Supervised_Learning_High_Line_Machine_Learning.ipynb                      <- High line containing the model that gives us the best results.
 │
 ├── reports      
-│   ├── report.pdf                                                                <- Report describing the process and techniques used.
+│   ├── Machine_Learning_2020___Milestone_2___Supervised_Learning.pdf             <- Report describing the process and techniques used.
 │   └── figures                                                                   <- Folder containing images of all the graphics generated in the notebooks.
 │
 └── results
